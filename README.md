@@ -1,7 +1,9 @@
 # hello-world
 ## Fun with the tutorial!
 
-About me:
+This is the README I've made for the GitHub Hello World tutorial.
+
+Here is one of my favorite quotes from one of my favorite songs:
 
 "I am shy, but you can reach me.  
 Rowing on the lakes of Canada..."
